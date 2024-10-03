@@ -3,7 +3,7 @@ Este repositório foi criado para a disciplina de Python in Environmental Applic
 Aluna: Bianca Bonetti Nunes <br>
 Professor: Leonardo Hoinaski <br>
 
-A pasta está organizada da seguinte maneira: \n
+A pasta está organizada da seguinte maneira: <br>
 - notebooks = pasta com os jupyter notebooks
 - dados = pasta contendo dados, porém ignoradas no .gitignore
 - outputs = pasta com outputs dos jupyter notebooks
