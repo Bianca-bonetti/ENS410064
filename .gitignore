@@ -9,9 +9,12 @@ Dados
 dados
 figuras
 outputs_atv03
+vazoesmaximas_hidrologia
 
 # C extensions
 *.so
+*.nc
+*.nc4
 
 # Distribution / packaging
 .Python
